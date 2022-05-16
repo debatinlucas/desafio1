@@ -12,6 +12,6 @@ package br.univali.desafio1;
 public class Desafio1 {
 
     public static void main(String[] args) {
-        System.out.println("Lucas Debatin");
+        System.out.println("Olá, mundo");
     }
 }
